@@ -1,4 +1,4 @@
-import Forexpic from '../components/Myimages/Forexpic.png';
+import forexpic from '../components/Myimages/forexpic.png';
 import Finest2 from '../components/Myimages/final1.jpg'
 import Finest3 from '../components/Myimages/final15.jpg'
 
@@ -68,7 +68,7 @@ export const MyShop = [
     price: 15000,
     description: 'This is a great tool for traders who want to capitalize on the opportunities in the financial markets. With its user-friendly interface, advanced trading features, and reliable performance, it is a great choice for traders of all levels.',
     category: 'Binary',
-    image: Forexpic,
+    image: forexpic,
     rating: 3.8,
     reviews: 5,
     isNew: true,

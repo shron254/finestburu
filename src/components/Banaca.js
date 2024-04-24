@@ -32,8 +32,7 @@ function Banaca() {
                 style={{
                   width: '200px',
                   height: '200px',
-                  marginTop: '10px', // Equivalent to Tailwind's mt-1
-                  // Use a media query to increase the size on larger screens
+                  marginTop: '10px', 
                   '@media (min-width: 640px)': {
                     width: '400px',
                     height: '400px',
@@ -52,8 +51,7 @@ function Banaca() {
                 style={{
                   width: '350px',
                   height: '350px',
-                  marginTop: '10px', // Equivalent to Tailwind's mt-1
-                  // Use a media query to increase the size on larger screens
+                  marginTop: '10px', 
                   '@media (min-width: 640px)': {
                     width: '400px',
                     height: '400px',
