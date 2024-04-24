@@ -157,9 +157,14 @@ function Header({products}) {
                 Logout
               </p>
           </div>
-          <p className="text-sm text-yellow-600">
-            Up to 20% Discount For Resellers
-          </p>
+          <div className="flex flex row justify-evenly">
+          <p className="text-sm text-yellow-600 md:mt-7">
+                Up to 20% Discount
+              </p>
+              <a href="https://track.deriv.com/_NJuBnajFLo5Zl7VyVw174GNd7ZgqdRLk/1/" target="_blank" rel="noopener noreferrer">
+  <button className="bg-blue-900 text-white text-sm md:p-2 p-1 md:m-4 ml-5 rounded-md">Start trading</button>
+</a>
+          </div>
         </div>
       </header>
     </div>

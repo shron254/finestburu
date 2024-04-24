@@ -213,6 +213,48 @@ function Banner() {
       profileImage: 'final1.jpg',
       message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
     },
+    {
+      id: 34,
+      name: 'James Smith',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'Emily Johnson',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'William Williams',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'Olivia Brown',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'Benjamin Jones',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'Sophia Davis',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
+    {
+      id: 33,
+      name: 'Michael Miller',
+      profileImage: 'final1.jpg',
+      message: 'If you want to stay ahead in the trading game, this bot is your secret weapon. Its reliable and delivers outstanding results.',
+    },
   ];
 
   return (

@@ -69,8 +69,8 @@ function Bafaca() {
                         <Image src={Baca5} style={{ width: '100%', height: '100%' }} />
                       </div>
 
-                      <h1 className='text-white font-semibold'>Deriv Killer 1.0</h1>
-                        <h1 className='text-white font-semibold'>Ksh 10,000</h1>
+                      <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 1.0</h1>
+                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 10,000</h1>
                         <Link href="/product/4">
                             <a className="bg-yellow-600 text-white text-center rounded-full p-2 text-lg font-bold mt-3">
                               Shop Now
