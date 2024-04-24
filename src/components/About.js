@@ -34,7 +34,7 @@ function About() {
             <Image src={Blog3} className="w-full h-full rounded-md" alt="Banner" />
             <div className="absolute inset-0 rounded-md">
               <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white opacity-10 rounded-md"></div>
-              <a href="https://deriv.com/" className="absolute bottom-0 left-0 right-0 py-3 px-4 flex items-center justify-center bg-gradient-to-t from-white via-white to-transparent rounded-b-md transition-transform duration-300 transform group-hover:translate-x-2">
+              <a href="https://track.deriv.com/_NJuBnajFLo5Zl7VyVw174GNd7ZgqdRLk/1/" target="_blank" rel="noopener noreferrer" className="absolute bottom-0 left-0 right-0 py-3 px-4 flex items-center justify-center bg-gradient-to-t from-white via-white to-transparent rounded-b-md transition-transform duration-300 transform group-hover:translate-x-2">
                 <p className="text-blue-700 text-xs font-semibold animate-slide-horizontal">Read More</p>
                 <svg
                   className="animate-slide-horizontal w-6 h-6 ml-2 text-blue-700"

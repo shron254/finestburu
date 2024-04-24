@@ -1,6 +1,6 @@
 import Baca1 from '../components/Myimages/finest.png';
 import Baca2 from '../components/Myimages/trade2.png';
-import Baca3 from '../components/Myimages/forexpic.png';
+import Baca3 from '../components/Myimages/final15.jpg';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -20,9 +20,9 @@ function Banaca() {
         <h1 className='md:text-4xl text-3xl font-bold text-yellow-800'>Binary, Your path to prosperity</h1>
             <div className="p-2 mb-10 flex md:flex-row">
               <div>
-                <h1 className="font-bold text-xl md:text-xl py-4">Introducing Deriv Killer 3.0</h1>
-                <p className="text-lg md:text-xl font-old py-2 mb-2 md:mb-5 -mt-4">KSH 15,000</p>
-                <Link href="/product/6">
+                <h1 className="font-bold text-xl md:text-xl py-4">Introducing Deriv Killer 1.0</h1>
+                <p className="text-lg md:text-xl font-old py-2 mb-2 md:mb-5 -mt-4">KSH 10,000</p>
+                <Link href="/product/5">
                   <a className="bg-blue-900 text-white rounded-full p-4 text-lg font-bold mt-6">
                     Shop Now
                   </a>

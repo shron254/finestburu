@@ -158,7 +158,7 @@ function Header({products}) {
               </p>
           </div>
           <div className="flex flex row justify-evenly">
-          <p className="text-sm text-yellow-600 md:mt-7 mt-1">
+          <p className="text-sm text-yellow-600 md:mt-6 mt-1">
                 Up to 20% Discount
               </p>
               <a href="https://track.deriv.com/_NJuBnajFLo5Zl7VyVw174GNd7ZgqdRLk/1/" target="_blank" rel="noopener noreferrer">

@@ -1,7 +1,8 @@
 // React import
 import React from 'react';
 import Baca4 from '../components/Myimages/final1.jpg';
-import Baca5 from '../components/Myimages/final15.jpg';
+import Baca5 from '../components/Myimages/final1.jpg';
+import Baca6 from '../components/Myimages/forexpic.png';
 import Image from 'next/image';
 import Link from 'next/link';
 import CountdownTimer from './CountDownTimer';
@@ -39,12 +40,12 @@ function Bafaca() {
                         }}
                         className="rounded-md overflow-hidden"
                       >
-                        <Image src={Baca4} style={{ width: '100%', height: '100%' }} />
+                        <Image src={Baca5} style={{ width: '100%', height: '100%' }} />
                       </div>
                   
                         <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 2.0</h1>
                         <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 12,000</h1>
-                        <Link href="/product/5">
+                        <Link href="/product/4">
                             <a className="bg-yellow-600 text-white text-center rounded-full p-2 text-lg font-bold mt-3">
                               Shop Now
                             </a>
@@ -66,12 +67,12 @@ function Bafaca() {
                         }}
                         className="rounded-md overflow-hidden"
                       >
-                        <Image src={Baca5} style={{ width: '100%', height: '100%' }} />
+                        <Image src={Baca6} style={{ width: '100%', height: '100%' }} />
                       </div>
 
-                      <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 1.0</h1>
-                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 10,000</h1>
-                        <Link href="/product/4">
+                      <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 3.0</h1>
+                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 15,000</h1>
+                        <Link href="/product/6">
                             <a className="bg-yellow-600 text-white text-center rounded-full p-2 text-lg font-bold mt-3">
                               Shop Now
                             </a>
