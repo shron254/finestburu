@@ -1,8 +1,8 @@
 // React import
 import React from 'react';
 import Baca4 from '../components/Myimages/final1.jpg';
-import Baca5 from '../components/Myimages/final1.jpg';
-import Baca6 from '../components/Myimages/forexpic.png';
+import Baca5 from '../components/Myimages/forexpic.png';
+import Baca6 from '../components/Myimages/header.png';
 import Image from 'next/image';
 import Link from 'next/link';
 import CountdownTimer from './CountDownTimer';
@@ -11,7 +11,7 @@ import CountdownTimer from './CountDownTimer';
 
 function Bafaca() {
   return (
-    <div className="md:mt-20 ">
+    <div className="md:mt-24 ">
       <div className="md:relative flex md:flex-row md:justify-evenly flex-col mt-36 m-2 mb-4  md:-mt-20 md:mb-20 bg-white md:bg-transparent">
         {/* BANACA 1 */}
         <div className="md:bg-blue-900 bg-white border border-blue-900 -mt-64 md:mt-0 md:rounded-full md:w-5/6 md:h-82 p-3 flex flex-col justify-center opacity-100 md:shadow-md">
@@ -43,9 +43,9 @@ function Bafaca() {
                         <Image src={Baca5} style={{ width: '100%', height: '100%' }} />
                       </div>
                   
-                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 2.0</h1>
-                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 12,000</h1>
-                        <Link href="/product/4">
+                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 3.0</h1>
+                        <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 13,000</h1>
+                        <Link href="/product/6">
                             <a className="bg-yellow-600 text-white text-center rounded-full p-2 text-lg font-bold mt-3">
                               Shop Now
                             </a>
@@ -57,8 +57,8 @@ function Bafaca() {
                   <div className='flex flex-col'>
                       <div
                         style={{
-                          width: '150px',
-                          height: '150px',
+                          width: '130px',
+                          height: '130px',
                           marginTop: '10px', 
                           '@media (min-width: 640px)': {
                             width: '400px',
@@ -70,9 +70,9 @@ function Bafaca() {
                         <Image src={Baca6} style={{ width: '100%', height: '100%' }} />
                       </div>
 
-                      <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Killer 3.0</h1>
+                      <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Deriv Minor 1.0</h1>
                         <h1 className='md:text-white text-blue-900 text-center font-bold md:font-semibold'>Ksh 15,000</h1>
-                        <Link href="/product/6">
+                        <Link href="/product/7">
                             <a className="bg-yellow-600 text-white text-center rounded-full p-2 text-lg font-bold mt-3">
                               Shop Now
                             </a>

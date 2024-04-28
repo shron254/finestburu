@@ -1,6 +1,7 @@
 import forexpic from '../components/Myimages/forexpic.png';
 import Finest2 from '../components/Myimages/final15.jpg'
 import Finest3 from '../components/Myimages/final1.jpg'
+import Baca6 from '../components/Myimages/header.png';
 
 export const MyShop = [
   
@@ -41,7 +42,7 @@ export const MyShop = [
   {
     id: 4,
     title: 'Deriv Killer 2.0',
-    price: 12000,
+    price: 10000,
     description: 'Tailored for traders seeking to leverage market opportunities, this tool provides an intuitive solution. Packed with sophisticated trading functionalities and dependable performance, it stands out as the go-to choice for traders across skill levels.',
     category: 'Binary',
     image: Finest3,
@@ -65,10 +66,22 @@ export const MyShop = [
   {
     id: 6,
     title: 'Deriv Killer 3.0',
-    price: 15000,
+    price: 13000,
     description: 'Ideal for traders aiming to seize the potential of financial markets, this tool offers a seamless experience. Boasting an intuitive interface, cutting-edge trading tools, and consistent reliability, it caters to traders at any stage of their journey.',
     category: 'Binary',
     image: forexpic,
+    rating: 3.8,
+    reviews: 5,
+    isNew: true,
+  },
+
+  {
+    id: 7,
+    title: 'Deriv Minor 1.0',
+    price: 15000,
+    description: 'Perfect for those ready to dive into the world of finance, this tool is a gateway to endless possibilities in the market. With its user-friendly interface, advanced trading features, and unwavering dependability, its the ideal companion for traders of all levels.',
+    category: 'Binary',
+    image: Baca6,
     rating: 3.8,
     reviews: 5,
     isNew: true,
